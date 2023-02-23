@@ -1,0 +1,33 @@
+ID,Wymagania rejestracj w oparciu o aplikację webową Allegro.
+1,Nie jest potrzebny instalator.
+2,W oknie aplikacji musi się znaleźć ikona Allegro
+3,"Wszystkie komunikaty, informacje oraz nazwy klawiszy na stronie rejestracji muszą być w języku polskim. (wymaganie zmienione w celu możliwości zgłoszenia defektu)"
+4,"Przyciski nawigacyjne pomiędzy ""Konto Zwykłe"" i ""Konto Firma"" umożliwiają przeniesienie się do odpowiedniego formularzu rejestracji konta."
+5,"Przyciski nawigacyjne pomiędzy ""E-mail"" i ""Numer telefonu"" umożliwiają sposób logowania po pomyślnie zakończonej rejestracji konta"
+6,"Pole ""E-mail"" musi zawierać znak ""@"" , nie może się od niego zaczynać"
+7,"Komunikat o błędzie po każdym błędnym podaniu adresu ""E-mail"""
+8,"Hasło musi składać się z minimum 8 znaków i zawierać wielką literę, małą literę oraz cyfrę."
+9,"Hasło musi zawierać opcję podglądu. Po wciśnięciu przycisku ""POKAŻ"" umieszczonym na końcu pola ""hasło"" "
+10,"Hasło musi posiadać opcję ukrycia wprowadzonego hasła. Po wciśnięciu przycisku ""UKRYJ"" umieszczonym na końcu pola ""hasło"""
+11,Komunikat o spęłnionym kryterium poszczególnych znaków z których składa się hasło
+12,"Pole ""Numer telefonu"" musi składać się z 4 do 12 znaków i zawierać tylko cyfry oraz pojedyńczy znak specjalny ""+"" który musi być jako pierwszy"
+13,Komunikat o niepoprawnym wprowadzeniu numeru telefonu
+14,"Kod SMS do logowania po poprawnyej rejestracji konta, musi być unikatowy"
+15,"Przyciski nawigacyjne pomiędzy  ""Mam mniej niż 18 lat"" i ""Mam 18 lat i więcej""  umożliwiają określenie oferty odpowiedniej dla kategorii wiekowej"
+16,"Wymagana dokładna data urodzenia w formie"" dd.mm.rrrr""  po kliknięciu w pole ""Mam mniej niż 18 lat"", użytkownik nie może mieć mniej niż 13 lat"
+17,Komunikat o niepoprawnym wprowadzeniu daty urodzenia 
+18,"Wymagane ""Zgody i oświadczenia"" , użytkownik musi zaznaczyć wszystkie pola oznaczone znakiem specjalnym ""*"" "
+19,"Pole ""Oświadczam, że znam i akceptuję postanowienia Regulaminu Allegro"" musi zawierać link umożliwiający przeniesienie do Regulaminu Allegro
+"
+20,"Wymagana zgoda ""Transakcje w serwisie będę zawierać za zgodą mojego opiekuna prawnego"" dla użytkownika poniżej 18 roku życia "
+21,"Opcjonalne ""Zgody i oświadczenia"" muszą zawierać linki umożliwiające przeniesienie do okna z pełną informacją "
+22,"Przycisk ""Zarejestruj"" służy do zakończenia procesu rejestracji użytkownika. Dane wprowadzone podczas rejestracji są zapisywane w bazie danych. W zależności od wybranej metody rejestracji, użytkownik otrzyma wiadomość email lub sms z kodem potwierdzającym w celu weryfikacji adresu email/numeru telefonu."
+23,"W przypadku wyboru rejestracji jako firma, pole login musi składać się z 3 do 16 znaków, nie dozwolone są znaki specjalne."
+24,Komunikat o niepoprawnym wprowadzeniu loginu
+25,Wymagany numer NIP
+26,W przypadku utraty połączenia sieciowego użytkownik nie ma możliwości zarejestrowania konta
+27,"Użytkownik ma możliwość rejestracji za pomocą istniejącego konta Google lub Facebook, które znajdują się poniżej przycisku ""Zarejestruj"""
+28,"W przypadku wyboru rejestracji za pomocą konta Google, strona wyboru konta otwiera się w nowym oknie przeglądarki, użytkownik zostaje poproszony o wpisanie hasła do wybranego konta, po zalogowaniu konto zostaje od razu stworzone."
+29,"W przypadku wyboru rejestracji za pomocą konta Facebook, strona logowania do konta otwiera się w nowym oknie przeglądarki, użytkownik zostaje poproszony o wpisanie adresu email lub numeru telefonu oraz hasła, po zalogowaniu konto zostaje od razu stworzone."
+30,W prawym dolnym rogu strony znajduje się przycisk czatbota Allegro.
+31,"Po kliknięciu na przycisk czatbota otwiera się okno komunikatora do rozmowy z czatbotem, którego zadaniem jest pomoc w procesie rejestracji."
